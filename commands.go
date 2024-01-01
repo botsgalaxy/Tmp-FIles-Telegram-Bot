@@ -38,7 +38,7 @@ Made with ❤️ by BotsGalaxy
 			{
 				gotgbot.InlineKeyboardButton{
 					Text: "📂 __Repository__",
-					Url:  "https://github.com/botsgalaxy/tmp-files-telegram-bot",
+					Url:  "https://github.com/botsgalaxy/TmpFiles-telegram-bot",
 				},
 				gotgbot.InlineKeyboardButton{
 					Text: "👤 __Author__",
