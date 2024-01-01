@@ -1,4 +1,4 @@
-module github.com/botsgalaxy/tmp-files-telegram-bot
+module github.com/botsgalaxy/TmpFiles-telegram-bot
 
 go 1.18
 
