@@ -10,7 +10,10 @@ This bot, created in the 'Go' programming language, makes it simple to upload fi
 - Share Links with a Button: There's a button that allows you to share the file link directly with others. It makes sharing quick and straightforward.
 
 ## Screenshots 
-![screenshot 1](assets/screenshot_1.jpg) ![screenshot 2](assets/screenshot_2.jpg) ![screenshot 3](assets/screenshot_3.jpg)
+
+<img src="assets/screenshot_1.jpg" alt="screenshot 1" height="400px">
+<img src="assets/screenshot_2.jpg" alt="screenshot 2" height="400px">
+<img src="assets/screenshot_3.jpg" alt="screenshot 3" height="400px">
 
 ## Author
 - [BotsGalaxy](https://github.com/botsgalaxy)
