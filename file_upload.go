@@ -65,13 +65,13 @@ func handleFileUpload(b *gotgbot.Bot, ctx *ext.Context) error {
 						Text: "⚡ __Direct Download Link__",
 						Url:  directLink,
 					},
+				},
+
+				{
 					gotgbot.InlineKeyboardButton{
 						Text: "🌎 __Download Page__",
 						Url:  response.Data.URL,
 					},
-				},
-
-				{
 					gotgbot.InlineKeyboardButton{
 						Text: "↪️ __Share__",
 						Url:  shareURL,
