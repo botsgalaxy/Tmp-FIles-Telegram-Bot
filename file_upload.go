@@ -24,7 +24,7 @@ type UploadResponse struct {
 func handleFileUpload(b *gotgbot.Bot, ctx *ext.Context) error {
 	filesize := ctx.EffectiveMessage.Document.FileSize
 	filename := ctx.EffectiveMessage.Document.FileName
-	if filesize > 100000000 {
+	if filesize > 20000000 {
 		ctx.EffectiveMessage.Reply(b, "<b>⚠️ Request Entity Too Large. 🚀 Max Upload File Size Limit: 100MB</b>", &gotgbot.SendMessageOpts{
 			ParseMode: "html",
 		})

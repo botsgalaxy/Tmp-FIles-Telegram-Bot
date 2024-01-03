@@ -74,7 +74,7 @@ func help(b *gotgbot.Bot, ctx *ext.Context) error {
 ⏰ All uploaded files are automatically deleted after 60 minutes.	
 💎 To upload file send the file in this chat </b>
 
-<i>🚀 Max Upload File Size Limit: 100MB
+<i>🚀 Max Upload File Size Limit: 20MB
 
 🚫 Please note that certain file extensions are restricted and cannot be uploaded.
 
